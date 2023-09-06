@@ -1,1 +1,17 @@
-
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Document</title>
+</head>
+<body>
+    <header>
+        <h1 class="titulo-principal">Barbearia MKS</h1>
+    </header>
+    <img id="banner" src"banner.jpg">
+    <h2 class="titulo-centralizado">Sobre a Barbearia MKS</h1>
+    <div class="principal">
+        <p>Localizada no coração da cidade a <strong> Barbearia MKS </strong> traz para o mercado oque ha de
